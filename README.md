@@ -1,4 +1,4 @@
-# PCTNet
+# PCT-Net
 This is the official repository of PCT-Net (CVPR2023) by [Rakuten Institute of Technology, Rakuten Group, Inc.](https://rit.rakuten.com/)
 - [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Guerreiro_PCT-Net_Full_Resolution_Image_Harmonization_Using_Pixel-Wise_Color_Transformations_CVPR_2023_paper.pdf)
 - [Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Guerreiro_PCT-Net_Full_Resolution_CVPR_2023_supplemental.pdf)
@@ -59,7 +59,7 @@ python3 scripts/evaluate_folder.py source_directory ViT_pct --weights pretrained
 
 For further evaluation, we created a notebook `evaluation/evaluation.ipynb` which processes a csv file that contains the calculated errors for each individual file. We also provide the csv files for both our methods as well as [DCCF](https://github.com/rockeyben/DCCF) and [Harmonizer](https://github.com/ZHKKKe/Harmonizer).
 
-## Citations
+## Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
 @InProceedings{Guerreiro_2023_CVPR,
