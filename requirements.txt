@@ -1,0 +1,11 @@
+albumentations
+easydict
+einops
+kornia
+opencv-python
+pandas
+pytorch_msssim
+tensorboard
+torch==1.12.0+cu116
+torchvision==0.13.0+cu116
+tqdm

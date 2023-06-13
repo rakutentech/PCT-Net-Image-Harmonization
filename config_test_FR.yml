@@ -1,0 +1,7 @@
+MODELS_PATH: "./harmonization_exps/models"
+EXPS_PATH: "./harmonization_exps"
+
+HFLICKR_PATH: "path/to/HFlickr"
+HDAY2NIGHT_PATH: "path/to/Hday2night"
+HCOCO_PATH: "path/to/HCOCO"
+HADOBE5K_PATH: "path/to/HAdobe5k"
